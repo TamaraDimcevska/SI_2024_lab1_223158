@@ -1,0 +1,36 @@
+$ git log
+commit d192687612031340be8e96b4bf9abfe4181f05ba (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: TamaraDimcevska <tamara.dimcevska8@gmail.com>
+Date:   Sun Apr 14 18:33:21 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 6a0df8ed25db7f94ffcf33f09c3939702051acbc
+Author: TamaraDimcevska <tamara.dimcevska8@gmail.com>
+Date:   Sun Apr 14 18:28:00 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 3fb09dd010af4a18a776d0deb26ff15cfbebda8b (origin/bug1, bug1)
+Author: TamaraDimcevska <tamara.dimcevska8@gmail.com>
+Date:   Sun Apr 14 18:31:41 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 1c169e40d46ef7926625e4e76649894ecdda8572
+Author: TamaraDimcevska <tamara.dimcevska8@gmail.com>
+Date:   Sun Apr 14 18:26:10 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 0f2322c4bb4afc8e738ccff2a5c6e5d820047cca
+Author: TamaraDimcevska <tamara.dimcevska8@gmail.com>
+Date:   Sun Apr 14 18:19:17 2024 +0200
+
+    Add starter code
+
+commit 1170aa6819fbfe6e970e9166db0d3a22f8f689c5
+Author: TamaraDimcevska <tamara.dimcevska8@gmail.com>
+Date:   Sun Apr 14 18:15:37 2024 +0200
+
+    Initial commit
